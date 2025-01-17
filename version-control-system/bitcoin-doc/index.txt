@@ -11,3 +11,7 @@ El funcionamiento de Bitcoin se basa en la tecnología blockchain, un registro d
 Una de sus principales ventajas es la posibilidad de realizar transacciones internacionales rápidas y con comisiones generalmente 
 más bajas que los sistemas tradicionales. Sin embargo, también enfrenta críticas debido a su volatilidad, su uso en actividades 
 ilícitas y el impacto ambiental asociado con el proceso de minería.
+
+En síntesis, Bitcoin representa una innovación significativa en el ámbito financiero, ofreciendo una alternativa al 
+sistema monetario convencional. Aunque enfrenta desafíos y controversias, su impacto en la economía global y su papel en la 
+adopción de tecnologías descentralizadas continúa creciendo.
