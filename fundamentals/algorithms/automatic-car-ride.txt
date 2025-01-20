@@ -1,0 +1,27 @@
+Proporciona una explicación detallada en un archivo. txt de las acciones que 
+realizarías al prepararte para conducir un coche automático.
+
+
+Este eiercicio está diseñado para ayudarte a entender los conceptos básicos de los 
+algoritmos al darte un ejemplo del mundo real sobre cómo llevar tu coche a dar un paseo.
+
+
+SOLUCIÓN:
+
+Requerimientos iniciales: tener licencia de conducir, tener vehiculo completamente funcional,
+contar con un lugar apto para realizar el recorrido.
+
+Tomamos la llave del auto y nos dirijimos a la puerta del piloto
+abrimos la puerta.
+Ingresamos al auto y nos ponemos el cinturon de seguridad
+Encedemos el auto, presionando el freno y con la palanca en P.
+Corroboramos que no venga ningun elemento (auto, peaton, animal, etc) que pueda interceder con
+nuestro arranque.
+
+Si hay algun elemento esperamos a que pase, sino,
+tenemos el visto bueno para avanzar
+
+Quitamos el freno de mano, que previamente debe estar colocado.
+Ponemos la palanca en D.
+Soltamos el frene
+Suavemente colocamos el pie en el acelerador e iniciamos a avanzar.
