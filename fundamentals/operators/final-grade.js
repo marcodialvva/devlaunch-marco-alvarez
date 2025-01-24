@@ -16,7 +16,7 @@ const gradeNumber2 = parseFloat(prompt (`Enter second note: `))
 const gradeNumber3 = parseFloat(prompt (`Enter third note: `))
 
 const Total_Grades = 3
-const MAX_DECIMALS = 3
+const MAX_DECIMALS = 2
 
 const grade = (gradeNumber1 + gradeNumber2 + gradeNumber3)/ Total_Grades
 
@@ -27,7 +27,4 @@ console.log(`Grade #1: ${gradeNumber1}`)
 console.log(`Grade #2: ${gradeNumber2}`)
 console.log(`Grade #3: ${gradeNumber3}`)
 
-
 console.log(`FINAL GRADE: ${fGrade}`)
-
-
