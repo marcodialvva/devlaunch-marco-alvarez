@@ -20,10 +20,10 @@ const Price_Per_Night = 100
 const currency = `$`
 const promotionalOffer = 0.05
 
-let subtotal = nightsHosted * Price_Per_Night
-let offerDiscount = subtotal * promotionalOffer
+const subtotal = nightsHosted * Price_Per_Night
+const offerDiscount = subtotal * promotionalOffer
 
-let totalBill = subtotal - offerDiscount
+const totalBill = subtotal - offerDiscount
 
 console.log(hotelName)
 console.log (`Price per night:${currency}${Price_Per_Night}`)
