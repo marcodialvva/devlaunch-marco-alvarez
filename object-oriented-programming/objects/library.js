@@ -20,22 +20,25 @@ function Book(name, author, year) {
 
 const library = {
     books: [],
-
-
+    
     add: function (book) {
         this.books.push(book);
         console.log(`Agregando el libro ${book.name} de ${book.author}`)
     }
 
-}
 
+}
 
 
 const book1 = new Book('100 Años de Soledad', 'Gabriel Garcia Márquez', '1967')
 const book2 = new Book('Metamorfosis', 'Franz Kafka', '1915')
-const book3 = new Book ('Numero Cero', 'Humberto Eco', '2015')
+const book3 = new Book('Numero Cero', 'Humberto Eco', '2015')
+
+
+
 
 library.add(book1)
 library.add(book2)
 library.add(book3)
-console.log(library.books[2])
+
+console.log (library.books)

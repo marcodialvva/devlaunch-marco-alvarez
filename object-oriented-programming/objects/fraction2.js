@@ -66,7 +66,7 @@ const createFractionWithFunctions = (numerador, denominador) => {
         ...f1,
 
         add: (f2) => add(f1, f2),
-        sub: (f2) => sub(f1, f2),
+        sub: (f2) => sub(f1, f2), 
         multi: (f2) => multi(f1, f2),
         div: (f2) => div(f1, f2),
 
