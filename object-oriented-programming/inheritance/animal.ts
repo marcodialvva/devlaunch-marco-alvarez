@@ -92,3 +92,5 @@ fanti1._sound()
 console.log(lion1.print())
 //console.log(fanti1.toString())
 console.log(fanti1.print())
+
+//fanti1._sound()
