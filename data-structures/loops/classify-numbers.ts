@@ -1,5 +1,4 @@
 /*
-
 En este ejercicio de programación, se te encarga crear un programa que imprima los números del 1 al 10, 
 clasificando cada número como par o impar.
 
@@ -23,6 +22,7 @@ Importante que la función creada devuelva la cadena de valores juntos y formate
 7 is odd
 8 is even
 9 is odd
+
 */
 
 function classifyNumber(x:number): string {
@@ -38,7 +38,6 @@ function classifyNumber(x:number): string {
     return results
 }
 console.log(classifyNumber(10))
-
 
 
 /*
