@@ -34,8 +34,6 @@ function fibonacciNumberN (): void{
         console.log (`Invalid input`)
     }
 
-
-
 }
 
 fibonacciNumberN ()
