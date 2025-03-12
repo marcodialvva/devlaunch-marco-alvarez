@@ -26,7 +26,7 @@ function isAMatch (dnaString : string, sequence:string){
 
     for (let i=0; i <= dnaString.length - sequence.length ; i++){
 
-    const dnaSlice = dnaString.slice(i,i + sequence.length)
+    let dnaSlice = dnaString.slice(i,i + sequence.length)
 
       if (dnaSlice === sequence) {
         return true
