@@ -16,7 +16,6 @@ class VendingMachine {
     private productSelected: Product | null
     private products: Record<Product, ProductInfo>
 
-
   constructor(){
     this.totalInsert = 0
     this.productSelected = null
