@@ -43,7 +43,7 @@ class VendingMachine {
         console.log(`Your Change: $${this.totalPayment-price}`)
         console.log(`Enjoy your ${food}!`)
     }
-
+    
     private requestProduct = ():Product => {
 
         let option: string = '';
@@ -65,7 +65,6 @@ class VendingMachine {
 
         return this.acceptedCoins.includes(coin) ? coin : 0
     }
-
 }
 
 const vendingMachine = new VendingMachine();
