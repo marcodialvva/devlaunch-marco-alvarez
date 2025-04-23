@@ -39,7 +39,10 @@ function classifyNumber(x:number): string {
 }
 console.log(classifyNumber(10))
 
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
 /*
 
 function classifyNumber(x:number): string [] {
