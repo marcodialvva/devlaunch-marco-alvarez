@@ -68,7 +68,6 @@ const pickASandwich = (students: number [], sandwiches: number []) => {
     
     }
 
-
     return students.length
 }
 
