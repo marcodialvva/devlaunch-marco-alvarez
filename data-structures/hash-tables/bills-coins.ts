@@ -23,8 +23,6 @@ Coins: [0.25, 0.1, 0.05, 0.01)
 
 */
 
-
-
 function defineBillsAndCoins(amount: number) {
 
 
