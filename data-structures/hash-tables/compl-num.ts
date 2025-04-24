@@ -14,5 +14,4 @@ function findPairSum(numbers: number[], target: number): [number, number] | null
     return null
 
 }
-
 console.log(findPairSum(numbers, target))
